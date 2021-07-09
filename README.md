@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vnhns - an aspiring software engineer!
+- 📚 BA from Bowdoin; MS candidate @ NEU
 - 👀 I’m interested in front end design, full stack development, and HCI/visualization research
 - 📫 How to reach me: email: haines.e@northeastnern.edu | twitter: @vn_hns
 
